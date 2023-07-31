@@ -1,0 +1,1 @@
+select SQRT(number1) AS root, LOG(number2) from decimals
